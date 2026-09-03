@@ -79,7 +79,7 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=dev-marufbillah&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-trophies.vercel.app/?username=dev-marufbillah&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
