@@ -56,45 +56,83 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%" />
+
+<br>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F6FEB,100:58A6FF&height=90&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=A%20live%20look%20at%20my%20coding%20activity&descAlignY=80&descSize=13&descColor=E6EDF3" width="100%" />
+</div>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=dev-marufbillah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-marufbillah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="165" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=dev-marufbillah&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7" height="165" />
-
-<br><br>
-
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=dev-marufbillah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-marufbillah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<br>
+<img src="https://streak-stats.demolab.com?user=dev-marufbillah&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7" width="70%" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<br>
 <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=dev-marufbillah&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" />
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=Trophies&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F6FEB,100:58A6FF&height=90&section=header&text=Trophies%20%26%20Achievements&fontSize=28&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=Milestones%20unlocked%20along%20the%20way&descAlignY=80&descSize=13&descColor=E6EDF3" width="100%" />
+</div>
 
 <div align="center">
-
 <img src="https://github-trophies.vercel.app/?username=dev-marufbillah&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=Let's%20Connect&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F6FEB,100:58A6FF&height=90&section=header&text=Let's%20Connect&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=Always%20open%20to%20a%20good%20conversation&descAlignY=80&descSize=13&descColor=E6EDF3" width="100%" />
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/dev-marufbillah/">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br>
+<sub><b>GitHub</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/dev-marufbillah/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /><br>
+<sub><b>LinkedIn</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="mailto:marufsalauddinoffical@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" /><br>
+<sub><b>Email</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://www.facebook.com/dev.marubillah">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" width="40" height="40" style="background:white;border-radius:8px;padding:4px" /><br>
+<sub><b>Facebook</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/dev-marufbillah/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dev-marufbillah/)
-[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/dev.marubillah)
-[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:marufsalauddinoffical@gmail.com)
-
-<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+great+together+%F0%9F%9A%80" alt="Footer Typing SVG" />
 
