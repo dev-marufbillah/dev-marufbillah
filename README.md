@@ -1,5 +1,5 @@
 ```md
-![My Web Development Journey](https://scontent-bom5-1.xx.fbcdn.net/v/t39.30808-6/790400585_122209207886471487_1996396736328376808_n.png?stp=dst-png&cstp=mx1983x793&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHmsoQDtUoCA3t56Ut3aAahtxXmhypa3Z23FeaHKlrdnd1gckKPYhoE_opDXqkuxJ0d0UMw4rQQgJVz2gzcxwW3&_nc_ohc=ACSvykQYopgQ7kNvwHfyK79&_nc_oc=Adriv8prdYWf0JMJekRx-SMGVv5a3lJE81jSYYUf_3ayZbUWt8MMQoM4YOKjOiJAwtIQfxakbfZl0huTs_eHw4jT&_nc_zt=23&_nc_ht=scontent-bom5-1.xx&_nc_gid=w7npNp6YTxOVDATYH8497Q&_nc_ss=7b2a8&oh=00_AQKZ-AVwamvuuY95QSYFnEUU6J_ztnPVv5AVr3uGa5gwAA&oe=6A9DB56F)
+![My Web Development Journey](https://scontent-bom5-1.xx.fbcdn.net/v/t39.30808-6/790400585_122209207886471487_1996396736328376808_n.png?stp=dst-png&cstp=mx1983x793&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71c4&_nc_eui2=AeHmsoQDtUoCA3t56Ut3aAahtxXmhypa3Z23FeaHKlrdnd1gckKPYhoE_opDXqkuxJ0d0UMw4rQQgJVz2gzcxwW3&_nc_ohc=ACSvykQYopgQ7kNvwHfyK79&_nc_oc=Adriv8prdYWf0JMJekRx-SMGVv5a3lJE81jSYYUf_3ayZbUWt8MMQoM4YOKjOiJAwtIQfxakbfZl0huTs_eHw4jT&_nc_zt=23&_nc_ht=scontent-bom5-1.xx&_nc_gid=w7npNp6YTxOVDATYH8497Q&_nc_ss=7b2a8&oh=00_AQKZ-AVwamvuuY95QSYFnEUU6J_ztnPVv5AVr3uGa5gwAA&oe=6A9DB56F)
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a self-driven developer focused on building practical, real-world applications while strengthening my full-stack skill set. My current focus is on modern JavaScript ecosystems, from responsive frontends to scalable backend services.
+I'm a self-driven developer focused on building practical, real-world applications while strengthening my full-stack skill set. My current focus is on modern JavaScript ecosystems — from responsive frontends to scalable backend services.
 
 - Building projects that solve real problems, not just tutorials
 - Sharpening problem-solving skills through consistent practice
