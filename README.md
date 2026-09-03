@@ -13,86 +13,50 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=About%20Me&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
-</div>
-
-> I'm a self-driven developer focused on building practical, real-world applications while strengthening my full-stack skill set. My current focus is on modern JavaScript ecosystems — from responsive frontends to scalable backend services.
-
-🔭 Building projects that solve real problems, not just tutorials
-🌱 Sharpening problem-solving skills through consistent practice
-🎨 Exploring the intersection of clean UI and solid backend architecture
-🤝 Open to collaborating on beginner-friendly open-source work
-
-<div align="center">
-
-`Learn` → `Build` → `Improve` → `Repeat`
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
-</div>
-
-<div align="center">
-
-**Languages**
 <br>
+
+## About
+
+I'm a self-driven developer focused on building practical, real-world applications while strengthening my full-stack skill set. My current focus is on modern JavaScript ecosystems — from responsive frontends to scalable backend services.
+
+- Building projects that solve real problems, not just tutorials
+- Sharpening problem-solving skills through consistent practice
+- Exploring the intersection of clean UI and solid backend architecture
+- Open to collaborating on beginner-friendly open-source work
+
+**Philosophy:** Learn → Build → Improve → Repeat
+
+<br>
+
+## Tech Stack
+
+#### Languages
 <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,graphql" />
 
-<br><br>
-
-**Frontend**
-<br>
+#### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap" />
 
-<br><br>
-
-**Backend**
-<br>
+#### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<br><br>
-
-**Database & ORM**
-<br>
+#### Database & ORM
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
 
-<br><br>
-
-**Deployment**
-<br>
+#### Deployment
 <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 
-<br><br>
-
-**Tools**
-<br>
+#### Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 
-<br><br>
-
-**Design**
-<br>
+#### Design
 <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 
-<br><br>
-
-**Currently Learning** 🚀
-<br>
+#### Currently Learning
 <img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,ts" />
 
-</div>
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
-</div>
 
 <div align="center">
 
@@ -109,11 +73,9 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<br>
 
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=Trophies&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
-</div>
 
 <div align="center">
 
@@ -121,11 +83,9 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<br>
 
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=Let's%20Connect&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
-</div>
 
 <div align="center">
 
