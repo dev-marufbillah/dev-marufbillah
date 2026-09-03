@@ -13,69 +13,107 @@
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
-## About
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=About%20Me&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
+</div>
 
-I'm a self-driven developer focused on building practical, real-world applications while strengthening my full-stack skill set. My current focus is on modern JavaScript ecosystems — from responsive frontends to scalable backend services.
+> I'm a self-driven developer focused on building practical, real-world applications while strengthening my full-stack skill set. My current focus is on modern JavaScript ecosystems — from responsive frontends to scalable backend services.
 
-- Building projects that solve real problems, not just tutorials
-- Sharpening problem-solving skills through consistent practice
-- Exploring the intersection of clean UI and solid backend architecture
-- Open to collaborating on beginner-friendly open-source work
-
-**Philosophy:** Learn → Build → Improve → Repeat
-
-<br>
-
-## Tech Stack
-
-#### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,graphql" />
-
-#### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap" />
-
-#### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-#### Database & ORM
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
-
-#### Deployment
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
-
-#### Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-
-#### Design
-<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
-
-#### Currently Learning
-<img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,ts" />
-
-<br>
-
-## GitHub Analytics
+🔭 Building projects that solve real problems, not just tutorials
+🌱 Sharpening problem-solving skills through consistent practice
+🎨 Exploring the intersection of clean UI and solid backend architecture
+🤝 Open to collaborating on beginner-friendly open-source work
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=dev-marufbillah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-marufbillah&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=dev-marufbillah&theme=tokyonight&hide_border=true" height="165" />
-
-<br><br>
-
-<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=dev-marufbillah&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+`Learn` → `Build` → `Improve` → `Repeat`
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
-## Trophies
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
+</div>
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,graphql" />
+
+<br><br>
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap" />
+
+<br><br>
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+**Database & ORM**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
+
+<br><br>
+
+**Deployment**
+<br>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+
+<br><br>
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+
+<br><br>
+
+**Design**
+<br>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+
+<br><br>
+
+**Currently Learning** 🚀
+<br>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,ts" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=dev-marufbillah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-marufbillah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="165" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=dev-marufbillah&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7" height="165" />
+
+<br><br>
+
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=dev-marufbillah&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=Trophies&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
+</div>
 
 <div align="center">
 
@@ -83,9 +121,11 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
-## Connect
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=70&section=header&text=Let's%20Connect&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%" />
+</div>
 
 <div align="center">
 
@@ -94,8 +134,10 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 [![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/dev.marubillah)
 [![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:marufsalauddinoffical@gmail.com)
 
-</div>
+<br><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+great+together+%F0%9F%9A%80" alt="Footer Typing SVG" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
