@@ -1,5 +1,5 @@
 ```md
-![My Web Development Journey](https://scontent-bom5-1.xx.fbcdn.net/v/t39.30808-6/790400585_122209207886471487_1996396736328376808_n.png?stp=dst-png&cstp=mx1983x793&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71c4&_nc_eui2=AeHmsoQDtUoCA3t56Ut3aAahtxXmhypa3Z23FeaHKlrdnd1gckKPYhoE_opDXqkuxJ0d0UMw4rQQgJVz2gzcxwW3&_nc_ohc=ACSvykQYopgQ7kNvwHfyK79&_nc_oc=Adriv8prdYWf0JMJekRx-SMGVv5a3lJE81jSYYUf_3ayZbUWt8MMQoM4YOKjOiJAwtIQfxakbfZl0huTs_eHw4jT&_nc_zt=23&_nc_ht=scontent-bom5-1.xx&_nc_gid=w7npNp6YTxOVDATYH8497Q&_nc_ss=7b2a8&oh=00_AQKZ-AVwamvuuY95QSYFnEUU6J_ztnPVv5AVr3uGa5gwAA&oe=6A9DB56F)
+![My Web Development Journey](https://scontent-bom5-1.xx.fbcdn.net/v/t39.30808-6/790400585_122209207886471487_1996396736328376808_n.png?stp=dst-png&cstp=mx1983x793&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHmsoQDtUoCA3t56Ut3aAahtxXmhypa3Z23FeHlaHKlrdnd1gckKPYhoE_opDXqkuxJ0d0UMw4rQQgJVz2gzcxwW3&_nc_ohc=ACSvykQYopgQ7kNvwHfyK79&_nc_oc=Adriv8prdYWf0JMJekRx-SMGVv5a3lJE81jSYYUf_3ayZbUWt8MMQoM4YOKjOiJAwtIQfxakbfZl0huTs_eHw4jT&_nc_zt=23&_nc_ht=scontent-bom5-1.xx&_nc_gid=w7npNp6YTxOVDATYH8497Q&_nc_ss=7b2a8&oh=00_AQKZ-AVwamvuuY95QSYFnEUU6J_ztnPVv5AVr3uGa5gwAA&oe=6A9DB56F)
 
 <div align="center">
 
@@ -21,23 +21,6 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 - Open to collaborating on beginner-friendly open-source work
 
 **Philosophy:** Learn → Build → Improve → Repeat
-
-<br>
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| Area | Focus |
-|------|-------|
-| 💻 Frontend | React, Next.js, TypeScript |
-| ⚙️ Backend | Node.js, Express.js |
-| 🗄️ Database | MongoDB, PostgreSQL |
-| 🚀 Development | Building real-world projects |
-| 📚 Learning | Full-Stack Web Development |
-| 🤝 Collaboration | Open Source & Developer Projects |
-
-</div>
 
 <br>
 
@@ -69,16 +52,6 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 <br>
 
-## 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-marufbillah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-
-</div>
-
-<br>
-
 ## GitHub Analytics
 
 <div align="center">
@@ -88,8 +61,8 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 <br><br>
 
 ![Followers](https://img.shields.io/github/followers/dev-marufbillah?style=for-the-badge&color=58A6FF&logo=github&logoColor=white&labelColor=0D1117)
-
 ![Stars](https://img.shields.io/github/stars/dev-marufbillah?style=for-the-badge&color=F1E05A&logo=github&logoColor=white&labelColor=0D1117)
+![Profile Views](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=A371F7&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdev-marufbillah%2Fprofile-readme&labelColor=0D1117)
 
 </div>
 
@@ -106,7 +79,6 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 </div>
 
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
 ```
