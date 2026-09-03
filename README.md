@@ -61,22 +61,22 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F6FEB,100:58A6FF&height=90&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=A%20live%20look%20at%20my%20coding%20activity&descAlignY=80&descSize=13&descColor=E6EDF3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6D28D9,100:A371F7&height=90&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=A%20live%20look%20at%20my%20coding%20activity&descAlignY=80&descSize=13&descColor=E6EDF3" width="100%" />
 </div>
 
 <table align="center">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=dev-marufbillah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=dev-marufbillah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A371F7&icon_color=A371F7" width="100%" />
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-marufbillah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-marufbillah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A371F7" width="100%" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 <br>
-<img src="https://streak-stats.demolab.com?user=dev-marufbillah&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7" width="70%" />
+<img src="https://streak-stats.demolab.com?user=dev-marufbillah&theme=tokyonight&hide_border=true&background=0D1117&ring=A371F7&fire=FBBF24" width="70%" />
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F6FEB,100:58A6FF&height=90&section=header&text=Trophies%20%26%20Achievements&fontSize=28&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=Milestones%20unlocked%20along%20the%20way&descAlignY=80&descSize=13&descColor=E6EDF3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B45309,100:FBBF24&height=90&section=header&text=Trophies%20and%20Achievements&fontSize=28&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=Milestones%20unlocked%20along%20the%20way&descAlignY=80&descSize=13&descColor=FEF3C7" width="100%" />
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F6FEB,100:58A6FF&height=90&section=header&text=Let's%20Connect&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=Always%20open%20to%20a%20good%20conversation&descAlignY=80&descSize=13&descColor=E6EDF3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0E7490,100:22D3EE&height=90&section=header&text=Let's%20Connect&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=Always%20open%20to%20a%20good%20conversation&descAlignY=80&descSize=13&descColor=CFFAFE" width="100%" />
 </div>
 
 <table align="center">
