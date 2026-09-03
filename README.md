@@ -15,16 +15,17 @@
 
 <br>
 
-## About
+## About Me
 
-I'm a self-driven developer focused on building practical, real-world applications while strengthening my full-stack skill set. My current focus is on modern JavaScript ecosystems — from responsive frontends to scalable backend services.
+I'm Maruf Billah, a full-stack web developer who builds complete, production-ready applications from the ground up — from designing intuitive user interfaces to architecting the databases and APIs that power them behind the scenes.
 
-- Building projects that solve real problems, not just tutorials
-- Sharpening problem-solving skills through consistent practice
-- Exploring the intersection of clean UI and solid backend architecture
-- Open to collaborating on beginner-friendly open-source work
+My work spans the entire product lifecycle. On the frontend, I build responsive, accessible interfaces using React and Next.js, styled with Tailwind CSS and structured around clean, reusable components. On the backend, I design RESTful APIs with Node.js and Express, model data with MongoDB and PostgreSQL, and manage schema and data logic through Prisma. Moving between these layers comes naturally to me — I understand how a decision in the database schema shapes the API contract, and how that in turn affects the experience a user sees on screen.
 
-**Philosophy:** Learn → Build → Improve → Repeat
+What makes someone a full-stack developer, to me, isn't just familiarity with tools on both ends — it's the ability to think about a project as one connected system: planning how data flows from database to interface, choosing architecture that can scale, and shipping features that work reliably end to end rather than in isolation.
+
+I approach every project the same way: understand the real problem before writing a single line of code, keep the codebase clean and maintainable as it grows, and iterate based on what actually works rather than what looks good in theory. I'm currently deepening my knowledge of DevOps practices — Docker, CI/CD pipelines, and cloud deployment — to take fuller ownership of applications from development through to production.
+
+**Philosophy:** Learn → Build → Improve → Repeat — the cycle I follow, and the way I intend to keep growing as a developer.
 
 <br>
 
