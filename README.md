@@ -68,7 +68,6 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 ## Connect
 
-```html
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/dev-marufbillah/)
@@ -77,7 +76,6 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 [![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:marufsalauddinoffical@gmail.com)
 
 </div>
-```
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
