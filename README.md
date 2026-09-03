@@ -56,13 +56,11 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" />
 
-<br>
+## GitHub Analytics
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6D28D9,100:A371F7&height=90&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=A%20live%20look%20at%20my%20coding%20activity&descAlignY=80&descSize=13&descColor=E6EDF3" width="100%" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=A371F7&center=false&vCenter=true&width=400&height=25&lines=A+live+look+at+my+coding+activity" alt="tagline" />
 
 <table align="center">
 <tr>
@@ -89,9 +87,9 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B45309,100:FBBF24&height=90&section=header&text=Trophies%20and%20Achievements&fontSize=28&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=Milestones%20unlocked%20along%20the%20way&descAlignY=80&descSize=13&descColor=FEF3C7" width="100%" />
-</div>
+## Trophies
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=FBBF24&center=false&vCenter=true&width=400&height=25&lines=Milestones+unlocked+along+the+way" alt="tagline" />
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=dev-marufbillah&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
@@ -99,9 +97,9 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0E7490,100:22D3EE&height=90&section=header&text=Let's%20Connect&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=Always%20open%20to%20a%20good%20conversation&descAlignY=80&descSize=13&descColor=CFFAFE" width="100%" />
-</div>
+## Let's Connect
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=22D3EE&center=false&vCenter=true&width=400&height=25&lines=Always+open+to+a+good+conversation" alt="tagline" />
 
 <table align="center">
 <tr>
