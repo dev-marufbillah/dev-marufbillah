@@ -69,7 +69,7 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-marufbillah&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=dev-marufbillah&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -79,7 +79,7 @@ I'm a self-driven developer focused on building practical, real-world applicatio
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dev-marufbillah&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=dev-marufbillah&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
