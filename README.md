@@ -9,7 +9,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dev-marufbillah&style=for-the-badge&color=58A6FF&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/dev-marufbillah?style=for-the-badge&color=58A6FF&logo=github&logoColor=white&labelColor=0D1117)
 ![Followers](https://img.shields.io/github/followers/dev-marufbillah?style=for-the-badge&color=58A6FF&logo=github&logoColor=white&labelColor=0D1117)
 ![Stars](https://img.shields.io/github/stars/dev-marufbillah?style=for-the-badge&color=F1E05A&logo=github&logoColor=white&labelColor=0D1117)
 
