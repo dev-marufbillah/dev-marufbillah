@@ -125,7 +125,7 @@ I approach every project the same way: understand the real problem before writin
 </a>
 </td>
 <td align="center">
-<a href="https://www.facebook.com/dev.marubillah">
+<a href="https://www.facebook.com/dev.marufbillah">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" width="40" height="40" style="background:white;border-radius:8px;padding:4px" /><br>
 <sub><b>Facebook</b></sub>
 </a>
